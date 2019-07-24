@@ -5,6 +5,7 @@
 ## 주제
 
 ### `CONNECT THE PYTHONISTAS` 라는 문구가 담긴 결과물
+* `CONNECT THE PYTHONISTAS` 라는 문구가 들어간 결과물을 만들어주세요.
   ![image](https://user-images.githubusercontent.com/22957868/61261228-18023980-a7bc-11e9-8c61-3fb684179e2d.png)
 * 게임, 랜덤 이미지, 웹, 앱 등등 위 문구가 표시되면 어떤 결과물도 상관없습니다.
 
